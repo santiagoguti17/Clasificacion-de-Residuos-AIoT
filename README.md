@@ -1,1 +1,1 @@
-# Clasificaci-n-de-Residuos-AIoT
+# Clasificacion-de-Residuos-AIoT
